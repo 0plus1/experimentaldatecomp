@@ -14,6 +14,7 @@ Please note that the required libraries are just for testing and easier CLI outp
 
 ### USAGE
 ```php do.php app:dateDiff "DD MM YYYY" "DD MM YYYY"```
+
 Or use the included bash script which runs several dates in a row: ```bash doLots.bash```
 
 Command will output ```EARLIEST_DATE, LATEST_DATE, DAY_DIFF```
